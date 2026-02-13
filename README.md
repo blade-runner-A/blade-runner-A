@@ -1,17 +1,49 @@
-# ⚡ Blade Runner A
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Anvin;I+Build+AI+Systems;Not+Just+Models" alt="Typing SVG" />
+</div>
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Next.js](https://img.shields.io/badge/Next.js-14-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.0-38b2ac)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=90" />
+</div>
 
-> **"I build AI systems, not just models."**
+<div align="center">
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
   <h3>👋 Hi, I’m Anvin</h3>
   <p>Building end-to-end AI and GenAI systems — from classical machine learning to large language models deployed on real infrastructure.</p>
+</div>
+
+---
+
+## 🚀 Live Stats
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=blade-runner-A&show_icons=true&theme=midnight-purple&hide_border=true" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blade-runner-A&theme=midnight-purple&hide_border=true" />
+      </td>
+    </tr>
+     <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blade-runner-A&layout=compact&theme=midnight-purple&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -24,7 +56,6 @@
 - FAISS vector search with transformer embeddings
 - Fine-tuned Mistral-7B using QLoRA (4-bit)
 - FastAPI backend + Next.js frontend
-- Deployed on multi-GPU infrastructure
 
 ### 🔹 LLM Orchestration Framework _(in progress)_
 
@@ -32,31 +63,19 @@
 - Lightweight agent workflows
 - Focused on real-world GenAI system design
 
-### 🔹 LLM Monitoring & Evaluation _(in progress)_
-
-- Latency and retrieval-quality tracking
-- Hallucination risk indicators
-- Practical evaluation beyond accuracy
-
 ---
 
-## 🧠 What I’m Focused On
+## 📊 System Metrics (Updated Daily)
 
-- **Machine Learning & Deep Learning fundamentals**
-- **Transformer architectures & Large Language Models**
-- **Retrieval-Augmented Generation (RAG)**
-- **Fine-tuning and optimizing LLMs** (QLoRA, PEFT, quantization)
-- **Production-ready AI backends and deployments**
-
----
-
-## 📊 System Metrics
-
-![Metrics](./github-metrics.svg)
+<div align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/AnvinX1/blade-runner-A/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/blade-runner-A/blade-runner-A/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
 
 ---
 
@@ -70,4 +89,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="AI Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
