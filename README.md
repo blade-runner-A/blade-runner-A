@@ -50,13 +50,13 @@
 
 ---
 
-## � System Metrics
+## 📊 System Metrics
 
-![Metrics](https://github.com/AnvinX1/blade-runner-A/blob/main/github-metrics.svg)
+![Metrics](./github-metrics.svg)
 
-## �🐍 Contribution Graph
+## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/AnvinX1/blade-runner-A/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AnvinX1/blade-runner-A/output/github-contribution-grid-snake.svg)
 
 ---
 
