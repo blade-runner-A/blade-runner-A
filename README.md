@@ -1,93 +1,46 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Anvin;I+Build+AI+Systems;Not+Just+Models" alt="Typing SVG" />
-</div>
+# 💫 About Me
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=90" />
-</div>
+Perfect — these sections are exactly what recruiters scan first on a GitHub profile.<br>Here’s a clean, honest, high-signal version tailored to you (no cringe, no fluff).<br><br>You can paste this as-is under your name.<br><br>🔭 I’m currently working on<br>Building end-to-end GenAI systems, including Retrieval-Augmented Generation (RAG), LLM fine-tuning (QLoRA), orchestration, and monitoring on real GPU infrastructure.<br><br>👯 I’m looking to collaborate on<br>Open-source projects involving LLMs, RAG pipelines, AI agents, and production AI systems.<br><br>🤝 I’m looking for help with<br>Improving evaluation and monitoring strategies for GenAI systems and understanding real-world failure modes.<br><br>🌱 I’m currently learning<br>Machine learning fundamentals, deep learning, transformer architectures, and how to take GenAI systems from prototype to production.<br><br>💬 Ask me about<br>RAG vs fine-tuning, LLM optimization (quantization, PEFT), FastAPI-based AI backends, and building GenAI systems end-to-end.<br><br>⚡ Fun fact<br>I learn AI by breaking systems and fixing them — that’s where the real understanding comes from.
 
-<div align="center">
+## 🌐 Socials
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/illusiveman_1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a.nvi.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anvin141) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Anvin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Anvinpshibu) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](<https://mastodon.social/@Anvin> Shibu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anvinpshibu@gmail.com)
 
-</div>
+# 💻 Tech Stack
 
----
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
 
-<div align="center">
-  <h3>👋 Hi, I’m Anvin</h3>
-  <p>Building end-to-end AI and GenAI systems — from classical machine learning to large language models deployed on real infrastructure.</p>
-</div>
+# 📊 GitHub Stats
 
----
+![](https://github-readme-stats.vercel.app/api?username=blade-runner-A&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=blade-runner-A&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=blade-runner-A&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 Live Stats
+## 🏆 GitHub Trophies
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=blade-runner-A&show_icons=true&theme=midnight-purple&hide_border=true" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blade-runner-A&theme=midnight-purple&hide_border=true" />
-      </td>
-    </tr>
-     <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blade-runner-A&layout=compact&theme=midnight-purple&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
+![](https://github-profile-trophy.vercel.app/?username=blade-runner-A&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=blade-runner-A&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=blade-runner-A&icon=0&color=4)](https://visitcount.itsvg.in)
 
-## 🚀 What I’ve Built
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🔹 Medical GenAI Assistant
-
-- End-to-end RAG-based medical question answering system
-- FAISS vector search with transformer embeddings
-- Fine-tuned Mistral-7B using QLoRA (4-bit)
-- FastAPI backend + Next.js frontend
-
-### 🔹 LLM Orchestration Framework _(in progress)_
-
-- Tool routing and multi-step reasoning
-- Lightweight agent workflows
-- Focused on real-world GenAI system design
-
----
-
-## 📊 System Metrics (Updated Daily)
+## 📊 Detailed System Metrics (Commit Calendar & Habits)
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%">
+  <img src="./github-metrics.svg" alt="Detailed System Metrics" width="100%">
 </div>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/blade-runner-A/blade-runner-A/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-## 🤝 Connect with Me
-
-- **Main Account:** [Anvin](https://github.com/Anvin)
-- **Alt Account 1:** [AnvinX1](https://github.com/AnvinX1)
-- **Alt Account 2:** [AnvinX2](https://github.com/AnvinX2)
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="AI Animation" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
